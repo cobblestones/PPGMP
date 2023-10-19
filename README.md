@@ -1,4 +1,4 @@
-## History Repeats Itself: Human Motion Prediction via Motion Attention
+## A human-like action learning process: Progressive pose generation for motion prediction
 This is the code for the paper
 
 Jinkai Li, Jinhua Wang, Ciwei Kuang, Lian Wu, Xin Wang, Yong Xu
